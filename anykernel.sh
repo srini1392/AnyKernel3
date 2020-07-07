@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=ArcKernel by Srinikethan M
 do.devicecheck=1
 do.modules=0
 do.systemless=1
